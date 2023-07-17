@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "URL Extractor",
+    "version": "3.0",
+    "action": {
+      "default_popup": "popup.html"
+    },
+      "icons": {
+        "16": "icon_16.png",
+        "32": "icon_32.png",
+        "128": "icon_128.png"
+      },
+    
+    "permissions": ["activeTab"]
+  }
+  
